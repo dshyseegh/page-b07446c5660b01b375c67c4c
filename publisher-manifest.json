@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "0e7517b6a282c165a669b1de",
+  "owner": "dshyseegh",
+  "repo": "page-b07446c5660b01b375c67c4c",
+  "title": "GoAcross",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b07446c5660b01b375c67c4c",
+      "a": "GoAcross",
+      "b": "",
+      "entity": "GoAcross",
+      "brand": "GoAcross",
+      "separator": "",
+      "path": "index.html",
+      "hash": "3c588f6d0a3c26f9ac438ece60ff5118634bd13466c3cffbd8f174571194a4c2",
+      "content": {
+        "keyword1": "GoAcross",
+        "keyword2": "",
+        "primary_entity": "GoAcross",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GoAcross 提供机场订阅与多平台 VPN 加速客户端，覆盖流媒体解锁、游戏加速与跨境办公，支持官方网站套餐与客户端导入说明。",
+          "AI_DESCRIPTION": "GoAcross 提供机场订阅与多平台 VPN 加速客户端，覆盖流媒体解锁、游戏加速与跨境办公，支持官方网站套餐与客户端导入说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html,body{overflow-x:hidden;max-width:100%}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:#FFF8F4;color:#2A2420;line-height:1.75;font-size:16px}a{color:#D14A3A}a:hover{text-decoration:underline}.wrap{max-width:920px;margin:0 auto;padding:0 16px}header{padding:28px 16px 0}nav{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 18px}.nav a{color:#2A2420;font-weight:600;text-decoration:none;padding:6px 2px}.hero{padding:64px 16px 40px;text-align:center}h1{font-size:2.25rem;font-weight:760;letter-spacing:.03em;color:#1C1714;margin-bottom:18px;line-height:1.25}.lead{font-size:1.08rem;color:#5C534C;max-width:680px;margin:0 auto 26px}.actions{display:flex;flex-wrap:wrap;justify-content:center;gap:10px}.btn{display:inline-block;background:#E85D4C;color:#fff;padding:12px 22px;border-radius:10px;font-weight:700;text-decoration:none}.btn:hover{text-decoration:none;background:#CF4C3C}.btn-ghost{background:#fff;color:#E85D4C;border:2px solid #E85D4C}main{display:block}section{padding:34px 0}h2{font-size:1.5rem;margin-bottom:12px;color:#1C1714;border-left:4px solid #E85D4C;padding-left:12px}h3{font-size:1.12rem;margin:16px 0 8px;color:#3A322D}p,li{margin-bottom:10px}ul{padding-left:1.2em}.plans{display:flex;flex-wrap:wrap;gap:16px;align-items:stretch}.plan{flex:1 1 250px;background:#fff;border:1px solid #F0E4DC;border-radius:14px;padding:20px}.plan.featured{border:2px solid #E85D4C;background:#FFF1ED}.tag{display:inline-block;background:#E85D4C;color:#fff;font-size:.75rem;font-weight:700;padding:3px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:1.45rem;font-weight:760;color:#E85D4C}.annual{font-size:.92rem;color:#6B625C;margin-bottom:8px}.clients{display:flex;flex-wrap:wrap;gap:10px;margin:12px 0 8px}.chip{background:#fff;border:1px solid #E8D5CC;border-radius:999px;padding:8px 14px;font-weight:650;color:#2A2420}.scene{background:#fff;border:1px solid #F0E4DC;border-radius:12px;padding:14px 16px;margin-bottom:12px}.steps{counter-reset:step}.steps li{margin-bottom:12px}.faq details{background:#fff;border:1px solid #F0E4DC;border-radius:10px;padding:12px 16px;margin-bottom:10px}.faq summary{font-weight:700;color:#1C1714}.faq p{margin-top:8px;color:#4A433E}.ad{background:#FFF1ED;border:1px dashed #E85D4C;padding:16px;border-radius:12px;text-align:center;margin:8px 0 20px}footer{padding:32px 16px;background:#2A2420;color:#F7EDE8;margin-top:12px}footer a{color:#FFB4A8}footer h2{border-left-color:#FFB4A8;color:#F7EDE8}.friends{display:flex;flex-wrap:wrap;gap:10px 16px;margin-top:8px}@media (max-width:640px){h1{font-size:1.7rem}.hero{padding:44px 12px 28px}.plan{flex:1 1 100%}}</style><header><div class=\"wrap\"><nav class=\"nav\" aria-label=\"页面导航\"><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#scenes\">场景</a><a href=\"#guide\">教程</a><a href=\"#faq\">常见问题</a><a href=\"#download\">官方下载</a></nav></div></header><main><div class=\"hero wrap\" id=\"intro\"><h1>GoAcross</h1><p class=\"lead\">GoAcross 官方网站提供机场订阅与 VPN 式网络加速。复制订阅即可导入主流客户端，用于流媒体解锁、跨境办公与游戏线路优化，强调清晰的客户端选择与可执行的导入步骤。</p><div class=\"actions\"><a class=\"btn\" href=\"#clients\">选择客户端</a><a class=\"btn btn-ghost\" href=\"#download\">官网下载说明</a></div></div><div class=\"wrap\"><section><h2 id=\"about-title\">品牌简介</h2><p>GoAcross 面向需要稳定跨境访问的个人与小团队，把机场订阅、节点调度和多端客户端说明放在同一条路径上。你在官网完成套餐后获得专属订阅地址，再按系统选择 Clash、sing-box、Shadowrocket 等工具导入，不必在多个来源之间猜测配置。</p><p>线路侧覆盖常用亚太与北美入口，旗舰与团队套餐包含 IPLC 游戏优化与更高并发设备数。我们把「能连上、能看片、能开黑」拆成可核对的能力：流量额度、同时在线台数、流媒体解锁范围和工单优先级，避免空泛宣传。</p><p>本页是 GoAcross 的信息入口：套餐对照、客户端选择、使用场景、操作说明与 FAQ 均可直接阅读。下载与导入以各系统正版客户端为准，GoAcross 提供订阅与节点，不绑定来路不明的安装包。</p></section><section id=\"plans\"><h2 id=\"plans-title\">套餐与机场订阅</h2><p>以下为官网固定套餐，可按月或按年订阅。年付相当于约十个月价格，适合长期使用梯子与加速器的用户。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"clients\"><h2 id=\"clients-title\">客户端选择</h2><p>GoAcross 订阅兼容常见代理协议。先选系统，再选客户端，最后把官网订阅链接粘贴进「订阅 / Profile / 配置」栏并更新节点。这是本站强调的核心路径，也是减少失败连接的关键。</p><h3>按系统挑选</h3><div class=\"clients\"><span class=\"chip\">Windows：Clash Verge / v2rayN / sing-box</span><span class=\"chip\">macOS：Clash Meta / Surge</span><span class=\"chip\">Android：Clash Meta / sing-box</span><span class=\"chip\">iOS：Shadowrocket / Stash / Quantumult X</span><span class=\"chip\">路由器：OpenClash / sing-box</span></div><h3>选择原则</h3><ul><li>需要图形界面与规则分流：优先 Clash 系。</li><li>需要内核轻量和 TUN 模式：优先 sing-box。</li><li>iOS 需要商店应用：Shadowrocket 或 Stash，导入订阅后开启代理。</li><li>同一账号请控制在套餐允许的设备数内，避免互踢。</li></ul><p>准备好客户端后，到 <a href=\"#download\">官方下载说明</a> 核对应导入的是订阅 URL 还是配置文件，不要把节点分享页误当作可执行安装程序。</p></section><section id=\"scenes\"><h2 id=\"scenes-title\">使用场景</h2><article class=\"scene\"><h3>流媒体与内容库</h3><p>旗舰版与团队版面向原生解锁：观看海外剧集、纪录片与公开课更稳定。基础版覆盖常见视频站点的基础访问。遇到区域限制时，切换带解锁标识的节点，而不是反复开关全局模式。</p></article><article class=\"scene\"><h3>游戏与实时对战</h3><p>旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的匹配与语音。建议游戏走游戏节点、下载走普通节点，避免把更新流量打满当月额度。</p></article><article class=\"scene\"><h3>跨境办公与学习</h3><p>文档协作、代码托管、学术数据库与海外 SaaS 可走稳定中转。团队版支持更多设备与定制路由，适合工作室共用一条机场订阅。</p></article></section><section id=\"guide\"><h2 id=\"guide-title\">操作说明</h2><ol class=\"steps\"><li>在官网选择基础版、旗舰版或团队版，完成订阅后进入账户面板复制订阅链接。</li><li>根据上一节完成客户端选择，仅从系统商店或客户端项目官方渠道安装。</li><li>打开客户端的订阅管理，粘贴 GoAcross 订阅 URL，保存后立即更新一次节点列表。</li><li>测延迟或按地区筛选，连接香港、日本、新加坡或美国等入口；流媒体请选原生解锁节点。</li><li>开启系统代理或 TUN/增强模式，用浏览器访问目标站点验证。失败时先更新订阅，再更换节点，最后检查设备是否超限。</li></ol><p>订阅链接属于个人凭证，不要公开发布。更换套餐后旧链接可能失效，需回到官网面板重新复制。</p></section><section id=\"download\"><h2 id=\"download-title\">官网下载与导入</h2><p>GoAcross 官方下载指的是：获取本站套餐对应的订阅地址，并配合正版客户端完成导入。我们不在此页放置可执行安装包，以避免来源混淆。</p><h3>导入核对清单</h3><ul><li>订阅类型：Clash YAML、SIP008 或通用订阅，以面板显示为准。</li><li>更新频率：首次导入后手动更新；之后可设 12–24 小时自动拉取。</li><li>规则：若只需跨境站点走代理，使用规则模式；游戏与 TUN 需求再开增强模式。</li><li>IPv6 与 DNS：出现解析异常时，在客户端改用可靠 DNS 并关闭冲突的系统 VPN。</li></ul><p>需要回到套餐对照请看 <a href=\"#plans\">套餐</a>，需要重选工具请看 <a href=\"#clients\">客户端选择</a>。</p></section><div class=\"ad\"><p><strong>广告</strong>：企业跨境专线与定制分流可咨询团队版客户经理，适合多账号、多出口的工作室部署。</p><p><a href=\"#plans\">了解团队版</a></p></div><section id=\"faq\" class=\"faq\"><h2 id=\"faq-title\">常见问题</h2><details><summary>GoAcross 是机场还是 VPN？</summary><p>GoAcross 以机场订阅为主，同时可以用 VPN 式客户端一键连接。你既可以在 Clash / sing-box 里精细分流，也可以在手机客户端里当作加速器使用，取决于所选工具。</p></details><details><summary>如何完成客户端下载与订阅导入？</summary><p>先按系统选择 Clash、Shadowrocket、sing-box 等正版客户端并安装，再登录 GoAcross 官网复制订阅链接，在客户端订阅栏粘贴并更新。详细步骤见客户端选择与官网下载说明两节。</p></details><details><summary>三个套餐怎么选？</summary><p>轻度浏览与基础流媒体选基础版；需要原生解锁、游戏 IPLC 和五台设备选旗舰版；工作室或家庭多设备、大流量与定制路由选团队版。年付可降低每月成本。</p></details><details><summary>流量与设备超限会怎样？</summary><p>当月流量用尽后加速会降速或暂停，次月按套餐重置。同时在线超过 3 / 5 / 20 台时，新连接可能失败或挤掉旧设备，请先在客户端断开闲置会话。</p></details><details><summary>节点覆盖哪些地区？</summary><p>常用入口包括香港、台湾、日本、新加坡、美国与欧洲。旗舰版强化 IPLC 游戏线路，团队版另有 VIP 高带宽节点。具体列表以订阅更新后的客户端为准。</p></details><details><summary>官方身份如何确认？</summary><p>请通过本页标题、套餐名称与订阅面板核对你正在使用的是 GoAcross 官网信息。不要向陌生聊天窗口发送订阅链接，也不要安装声称「GoAcross 加速器」却来源不明的安装文件。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><h2>友链与站点</h2><p>友情链接仅作导航互荐，点击后仍停留在本页锚点，便于核对结构。</p><div class=\"friends\"><a href=\"#clients\">客户端选择</a><a href=\"#download\">官网下载</a><a href=\"#plans\">机场订阅套餐</a><a href=\"#guide\">梯子使用教程</a><a href=\"#faq\">加速器常见问题</a></div><p>GoAcross 官方网站 · 机场订阅与网络加速 · <a href=\"#intro\">返回顶部</a></p></div></footer>",
+          "hash": "73c017bbeee213344a1ebce553062f573d5ff2cf36b6434f411c26589f6d5a42",
+          "seo": {
+            "title": "GoAcross官网 | 机场订阅与VPN梯子加速器客户端下载",
+            "keywords": "GoAcross,GoAcross机场,GoAcross VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC",
+            "description": "GoAcross 提供机场订阅与多平台 VPN 加速客户端，覆盖流媒体解锁、游戏加速与跨境办公，支持官方网站套餐与客户端导入说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mm787ax66.cn",
+    "host": "p-ae869e2fa9.mm787ax66.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "mm787ax66.cn",
+      "url": "https://mm787ax66.cn/",
+      "label": "GLaDOS",
+      "apex": "mm787ax66.cn",
+      "kind": null,
+      "identity": "ctbqmqste/page-eac50c5cf8288dc5e29520a0"
+    },
+    {
+      "host": "nnbht.cn",
+      "url": "https://nnbht.cn/",
+      "label": "GoAcross",
+      "apex": "nnbht.cn",
+      "kind": null,
+      "identity": "jqjjrkyq/page-9db9d63c017f9ae689f394de"
+    },
+    {
+      "host": "nqdlf.cn",
+      "url": "https://nqdlf.cn/",
+      "label": "GoAcross",
+      "apex": "nqdlf.cn",
+      "kind": null,
+      "identity": "fdtuafv7t/page-554d8c6753e152da96daf139"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d2b1db9be3350f8a221c531876da6b552a1c10d2ea3e86280a4af8b3fe3845df",
+    "sitemap.xml": "5e92d8813a14ee4e56eb25d3642f4dc2227b21a4fede4646cfda044648f1a366",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "376b65e552a55a7dbdda93462761c5acf90a706788a4de500bba6dd5bd4b9024",
+    "robots.txt": "44dd14715e63cd3055532bba225d5a30ea6c156a20a5dfb69c0d3b8587f36781",
+    "40e7849b8ebfef0bc4ccb53cba02ab04.txt": "323c62e1fbd3a3b9de383439184ba0302f00f3de81250b1a27b0a1cf87cc039f"
+  },
+  "revision": "b28c834d9940f112e1fd05f64b9d80d5d2fdf8fa8a84cd67a2ea1fa71423dbdb"
+}
